@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=700&size=29&pause=1000&color=F78EA3&background=40FF8E00&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Karan+Chaudhary)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🏡 Pre-Final Year Student at IIIT Vadodara<br>💫 Member Of Technical Committee<br>⚡️ Flutter Developer<br>🌈 Frontend Web Developer<br>🏆 UI designing on Figma
 
@@ -14,9 +17,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Karanchaudhary350&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=KaranCh48968679)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
