@@ -1,4 +1,4 @@
-<img width="865" alt="Screenshot 2023-03-14 at 3 17 27 PM" src="https://user-images.githubusercontent.com/78443850/224965984-570dbdf0-3f10-4b9c-95c8-0a800d457b7b.png">
+![github-header-image](https://user-images.githubusercontent.com/78443850/224968654-edee51ae-c5c7-478e-9c5b-e9904133844d.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=31&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%2C+I+am+Karan+Chaudhary)](https://git.io/typing-svg)
 
